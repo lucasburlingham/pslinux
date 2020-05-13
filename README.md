@@ -6,6 +6,10 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 
 <!DOCTYPE html>
 Avaliable commands:
+<style>
+  li {
+  font-weight: bold
+  }
 <ul>
 <li>sudo</li>
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
