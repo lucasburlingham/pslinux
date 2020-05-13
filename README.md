@@ -7,37 +7,37 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 <!DOCTYPE html>
 Avaliable commands:
 <ul>
-**<li>sudo</li>**
+-**sudo**
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
-<li>**cat**</li>
+-**cat**
   <ul><li>No deviation from native Linux version.</li></ul>
-<li>**echo**</li>
+-**echo**
   <ul><li>No deviation from native Linux version.</li></ul>
-<li>**touch**</li>
+-**touch**
   <ul><li>Creates an empty file with the only argument being the filename. Does not update the timestamp of a file.</li></ul>
-<li>**pico**</li>
+-**pico**
   <ul><li>Opens a file with Notepad with the only argument being the filename.</li></ul>
-<li>**nano**</li>
+-**nano**
   <ul><li>Opens a file with Notepad with the only argument being the filename. An alias of nano.</li></ul>
-<li>**vim**</li>
+-**vim**
   <ul><li>Opens a file with Writer with the only argument being the filename.</li></ul>
-<li>**less**</li>
+-**less**
   <ul><li>No deviation from native Linux version.</li></ul>
-<li>**dnsdomainname**</li>
+-**dnsdomainname**
   <ul><li>Displays the computer's name.</li></ul>
-<li>**winconfig**</li>
+-**winconfig**
    <ul><li>Fun play on the raspi-config known to the Raspbian users. Opens Computer Configuration.</li></ul>
-<li>**bashrc**</li>
+-**bashrc**
    <ul><li>Opens the PowerShell Profile (useful for developing this project!) in Notepad.</li></ul>
-<li>**top**</li>
+-**top**
   <ul><li>No deviation from native Linux version, though it is much simpler.</li></ul>
-<li>**ln**</li>
+-**ln**
    <ul><li>Creates a shortcut to be placed in the current directory.</li></ul>
-<li>**tail**</li>
+-**tail**
   <ul><li>Displays the last lines of a file. Input the number of lines to display as the first argument.</li></ul>
-<li>alias</li>
+-alias
   <ul><li>WIP. Alias of Set-Alias, meaning that you will need to use the powershell arguments for compatibility.</li></ul>
-<li>**yes**</li>
+-**yes**
   <ul><li>No deviation from native Linux version, 'cause why not?.</li></ul>
   </ul>
 
