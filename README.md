@@ -6,7 +6,7 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 
 <!DOCTYPE html>
 Avaliable commands:
-<style>
+<style type="text/css">
   li {
   font-weight: bold
   }
