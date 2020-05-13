@@ -4,7 +4,6 @@ Summer 2020 project to allow Linux users to comfortably use Windows Powershell w
 
 Please take this short survey (if you want): <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=YJmPXVzLYEKh9M8Osiq6NnBuWPZqA_RGpDA6KN7De4ZUQkVVUzVUMVZPVVhOTFBQVTZRSVNCSTJXVy4u">Microsoft Forms | psLinux Feature Survey</a>
 
-<!DOCTYPE html>
 Avaliable commands:
 -**sudo**
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
@@ -38,5 +37,3 @@ Avaliable commands:
   <ul><li>WIP. Alias of Set-Alias, meaning that you will need to use the powershell arguments for compatibility.</li></ul>
 -**yes**
   <ul><li>No deviation from native Linux version, 'cause why not?.</li></ul>
-
-</html>
