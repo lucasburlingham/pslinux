@@ -6,20 +6,21 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 
 <!DOCTYPE html>
 Avaliable commands:
+<ul>
 <li>sudo</li>
-  <li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li>
+  <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
 <li>cat </li>
-  <li>No deviation from native Linux version.</li>
+  <ul><li>No deviation from native Linux version.</li></ul>
 <li>echo</li>
-  <li>No deviation from native Linux version.</li>
+  <ul><li>No deviation from native Linux version.</li></ul>
 <li>touch</li>
-  <li> Creates an empty file with the only argument being the filename. Does not update the timestamp of a file.</li>
+  <ul><li> Creates an empty file with the only argument being the filename. Does not update the timestamp of a file.</li></ul>
 <li>pico</li>
-  <li>Opens a file with Notepad with the only argument being the filename.<li>
+  <ul><li>Opens a file with Notepad with the only argument being the filename.<li></ul>
 <li>nano </li>
-  <li>Opens a file with Notepad with the only argument being the filename. An alias of nano.<li>
+  <ul><li>Opens a file with Notepad with the only argument being the filename. An alias of nano.<li></ul>
 <li>vim</li>
-  <li>Opens a file with Writer with the only argument being the filename.<li>
+  <ul><li>Opens a file with Writer with the only argument being the filename.<li></ul>
 <li>less</li>
 <li>dnsdomainname</li>
 <li>winconfig</li>
@@ -29,5 +30,6 @@ Avaliable commands:
 <li>tail</li>
 <li>alias</li>
 <li>yes</li>
+  </ul>
 
 </html>
