@@ -7,7 +7,7 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 <!DOCTYPE html>
 Avaliable commands:
 <ul>
-<li>**sudo**</li>
+**<li>sudo</li>**
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
 <li>**cat**</li>
   <ul><li>No deviation from native Linux version.</li></ul>
