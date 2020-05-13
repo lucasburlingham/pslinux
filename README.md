@@ -6,13 +6,8 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 
 <!DOCTYPE html>
 Avaliable commands:
-<style type="text/css">
-  li {
-  font-weight: bold;
-  }
-  </style>
 <ul>
-<li>sudo</li>
+<li style="font-weight: bold">sudo</li>
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
 <li>cat </li>
   <ul><li>No deviation from native Linux version.</li></ul>
