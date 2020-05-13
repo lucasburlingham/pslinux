@@ -22,14 +22,23 @@ Avaliable commands:
 <li>vim</li>
   <ul><li>Opens a file with Writer with the only argument being the filename.</li></ul>
 <li>less</li>
+  <ul><li>No deviation from native Linux version.</li></ul>
 <li>dnsdomainname</li>
+  <ul><li>Displays the computer's name.</li></ul>
 <li>winconfig</li>
+   <ul><li>Fun play on the raspi-config known to the Raspbian users. Opens Computer Configuration.</li></ul>
 <li>bashrc</li>
+   <ul><li>Opens the PowerShell Profile (useful for developing this project!) in Notepad.</li></ul>
 <li>top</li>
+  <ul><li>No deviation from native Linux version, though it is much simpler.</li></ul>
 <li>ln</li>
+   <ul><li>Creates a shortcut to be placed in the current directory.</li></ul>
 <li>tail</li>
+  <ul><li>Displays the last lines of a file. Input the number of lines to display as the first argument.</li></ul>
 <li>alias</li>
+  <ul><li>WIP. Alias of Set-Alias, meaning that you will need to use the powershell arguments for compatibility.</li></ul>
 <li>yes</li>
+  <ul><li>No deviation from native Linux version, 'cause why not?.</li></ul>
   </ul>
 
 </html>
