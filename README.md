@@ -8,7 +8,7 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 Avaliable commands:
 <style type="text/css">
   li {
-  font-weight: bold
+  font-weight: bold;
   }
   </style>
 <ul>
