@@ -6,7 +6,6 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 
 <!DOCTYPE html>
 Avaliable commands:
-<ul>
 -**sudo**
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
 -**cat**
@@ -39,6 +38,5 @@ Avaliable commands:
   <ul><li>WIP. Alias of Set-Alias, meaning that you will need to use the powershell arguments for compatibility.</li></ul>
 -**yes**
   <ul><li>No deviation from native Linux version, 'cause why not?.</li></ul>
-  </ul>
 
 </html>
