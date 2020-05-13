@@ -7,12 +7,19 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 <!DOCTYPE html>
 Avaliable commands:
 <li>sudo</li>
+  <li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li>
 <li>cat </li>
+  <li>No deviation from native Linux version.</li>
 <li>echo</li>
+  <li>No deviation from native Linux version.</li>
 <li>touch</li>
+  <li> Creates an empty file with the only argument being the filename. Does not update the timestamp of a file.</li>
 <li>pico</li>
+  <li>Opens a file with Notepad with the only argument being the filename.<li>
 <li>nano </li>
+  <li>Opens a file with Notepad with the only argument being the filename. An alias of nano.<li>
 <li>vim</li>
+  <li>Opens a file with Writer with the only argument being the filename.<li>
 <li>less</li>
 <li>dnsdomainname</li>
 <li>winconfig</li>
