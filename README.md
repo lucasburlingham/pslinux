@@ -7,37 +7,37 @@ Please take this short survey (if you want): <a href="https://forms.office.com/P
 <!DOCTYPE html>
 Avaliable commands:
 <ul>
-<li style="font-weight: bold">sudo</li>
+<li>**sudo**</li>
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
-<li>cat </li>
+<li>**cat**</li>
   <ul><li>No deviation from native Linux version.</li></ul>
-<li>echo</li>
+<li>**echo**</li>
   <ul><li>No deviation from native Linux version.</li></ul>
-<li>touch</li>
+<li>**touch**</li>
   <ul><li>Creates an empty file with the only argument being the filename. Does not update the timestamp of a file.</li></ul>
-<li>pico</li>
+<li>**pico**</li>
   <ul><li>Opens a file with Notepad with the only argument being the filename.</li></ul>
-<li>nano </li>
+<li>**nano**</li>
   <ul><li>Opens a file with Notepad with the only argument being the filename. An alias of nano.</li></ul>
-<li>vim</li>
+<li>**vim**</li>
   <ul><li>Opens a file with Writer with the only argument being the filename.</li></ul>
-<li>less</li>
+<li>**less**</li>
   <ul><li>No deviation from native Linux version.</li></ul>
-<li>dnsdomainname</li>
+<li>**dnsdomainname**</li>
   <ul><li>Displays the computer's name.</li></ul>
-<li>winconfig</li>
+<li>**winconfig**</li>
    <ul><li>Fun play on the raspi-config known to the Raspbian users. Opens Computer Configuration.</li></ul>
-<li>bashrc</li>
+<li>**bashrc**</li>
    <ul><li>Opens the PowerShell Profile (useful for developing this project!) in Notepad.</li></ul>
-<li>top</li>
+<li>**top**</li>
   <ul><li>No deviation from native Linux version, though it is much simpler.</li></ul>
-<li>ln</li>
+<li>**ln**</li>
    <ul><li>Creates a shortcut to be placed in the current directory.</li></ul>
-<li>tail</li>
+<li>**tail**</li>
   <ul><li>Displays the last lines of a file. Input the number of lines to display as the first argument.</li></ul>
 <li>alias</li>
   <ul><li>WIP. Alias of Set-Alias, meaning that you will need to use the powershell arguments for compatibility.</li></ul>
-<li>yes</li>
+<li>**yes**</li>
   <ul><li>No deviation from native Linux version, 'cause why not?.</li></ul>
   </ul>
 
