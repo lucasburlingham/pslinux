@@ -10,6 +10,7 @@ Avaliable commands:
   li {
   font-weight: bold
   }
+  </style>
 <ul>
 <li>sudo</li>
   <ul><li>Starts a process with admin privilages. Does not accept any arguments except a file with an .exe extension.</li></ul>
